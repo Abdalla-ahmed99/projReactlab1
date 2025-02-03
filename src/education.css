@@ -1,0 +1,13 @@
+.ed1{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.ed{
+    margin-right:60px;
+}
+
+h2{
+    margin-top: 20px;
+}

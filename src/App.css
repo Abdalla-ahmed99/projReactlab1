@@ -1,0 +1,10 @@
+.countiner{
+  margin:0px 300px;
+  padding:10px;
+  box-shadow: 5px 10px 8px 10px #888888;
+  border-radius: 10px;
+}
+.bar{
+  width: 50px;
+  background-color: aqua;
+}
